@@ -14,7 +14,7 @@ export default function Home({ products }) {
       <main className={styles.main}>
         <div className={styles.hero}>
           <h1 className={styles.title}>
-            Medusa + Next.js Starter{" "}
+         My Store Front
             <span role="img" aria-label="Rocket emoji">
               🚀
             </span>
