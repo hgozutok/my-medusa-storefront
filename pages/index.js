@@ -13,7 +13,7 @@ export default function Home({ products }) {
     <div className={styles.container}>
       <main className={styles.main}>
         <div className={styles.products}>
-          <h2>Demo Products</h2>
+          <h2>Store Products</h2>
           <div className={styles.grid}>
             {products &&
               products.map((p) => {
